@@ -1,20 +1,6 @@
-# sandbox
-
-[![Package Version](https://img.shields.io/hexpm/v/sandbox)](https://hex.pm/packages/sandbox)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/sandbox/)
-
-```sh
-gleam add sandbox
-```
-```gleam
-import sandbox
-
-pub fn main() {
-  // TODO: An example of the project in use
-}
-```
-
-Further documentation can be found at <https://hexdocs.pm/sandbox>.
+# Gleam Sandbox
+A repo for playing around with [Gleam](https://gleam.run)
+> Gleam is a friendly language for building type-safe systems that scale! 
 
 ## Development
 
